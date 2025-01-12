@@ -1,0 +1,1 @@
+Uniform Cost Search (UCS) is a popular search algorithm used in artificial intelligence (AI) for finding the least cost path in a graph. It is a variant of Dijkstra's algorithm and is particularly useful when all edges of the graph have different weights and the goal is to find the path with the minimum total cost from a start node to a goal node.
